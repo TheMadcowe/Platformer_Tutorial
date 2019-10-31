@@ -1,0 +1,6 @@
+return {
+	sFontFile = "VeraMono.fnt",
+	tFontTextures = {
+		"VeraMono.tex",
+	},
+}
